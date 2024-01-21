@@ -2,9 +2,9 @@
 from enum import Enum, unique
 
 API_URLS = {
-    0: "https://api-sandbox.getnet.com.br",
-    1: "https://api-homologacao.getnet.com.br",
-    2: "https://api.getnet.com.br",
+    0: "https://checkout.test.getnet.cl",
+    1: "",
+    2: "https://checkout.getnet.cl",
 }
 
 
